@@ -25,14 +25,23 @@ Custom PCB or breadboard with jumper wires
 
 📁 File Structure
 bash
+
 Copy
+
 Edit
+
 /kidnapped-robot
+
 ├── robot_control.ino      # Main Arduino/ESP32 control code
+
 ├── README.md              # Project overview and documentation
+
 ├── /images                # Pictures of robot or schematics
+
 ├── /docs                  # Optional detailed documentation
+
 └── LICENSE                # Optional license file
+
 🧠 How It Works
 Initializes an N×N grid, with boundary walls and unexplored inner spaces.
 
