@@ -1,0 +1,4 @@
+1 -> Bot Location
+7 -> Traversed Path
+5 -> Blocked Points
+0 -> Empty
