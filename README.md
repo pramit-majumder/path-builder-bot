@@ -47,6 +47,7 @@ This is a real-world autonomous robot designed to explore and navigate an N×N g
 - Motor A (PWM)	5, 18
 - Motor B (PWM)	19, 21
 - Motor Speed	22, 23
+
 ## 📸 To-Do
 - Add configuration option for grid size (N)
 
@@ -55,14 +56,3 @@ This is a real-world autonomous robot designed to explore and navigate an N×N g
 - Upload video demo of real-world test
 
 - Improve path selection with shortest-path logic
-
-- Add logging via Serial or SD card
-
-🧪 Testing Tips
-Test each motor and sensor separately before full integration.
-
-Adjust delay() values and motor power for your bot’s speed.
-
-Ensure your robot’s size is suitable for your chosen grid cell spacing.
-
-Calibrate ultrasonic thresholds for more precise obstacle avoidance.
